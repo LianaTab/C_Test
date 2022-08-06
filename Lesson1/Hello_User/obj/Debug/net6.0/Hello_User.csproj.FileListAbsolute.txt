@@ -1,0 +1,15 @@
+/Users/liana/Desktop/GB/C_Test/Lesson1/Hello_User/bin/Debug/net6.0/Hello_User
+/Users/liana/Desktop/GB/C_Test/Lesson1/Hello_User/bin/Debug/net6.0/Hello_User.deps.json
+/Users/liana/Desktop/GB/C_Test/Lesson1/Hello_User/bin/Debug/net6.0/Hello_User.runtimeconfig.json
+/Users/liana/Desktop/GB/C_Test/Lesson1/Hello_User/bin/Debug/net6.0/Hello_User.dll
+/Users/liana/Desktop/GB/C_Test/Lesson1/Hello_User/bin/Debug/net6.0/Hello_User.pdb
+/Users/liana/Desktop/GB/C_Test/Lesson1/Hello_User/obj/Debug/net6.0/Hello_User.csproj.AssemblyReference.cache
+/Users/liana/Desktop/GB/C_Test/Lesson1/Hello_User/obj/Debug/net6.0/Hello_User.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liana/Desktop/GB/C_Test/Lesson1/Hello_User/obj/Debug/net6.0/Hello_User.AssemblyInfoInputs.cache
+/Users/liana/Desktop/GB/C_Test/Lesson1/Hello_User/obj/Debug/net6.0/Hello_User.AssemblyInfo.cs
+/Users/liana/Desktop/GB/C_Test/Lesson1/Hello_User/obj/Debug/net6.0/Hello_User.csproj.CoreCompileInputs.cache
+/Users/liana/Desktop/GB/C_Test/Lesson1/Hello_User/obj/Debug/net6.0/Hello_User.dll
+/Users/liana/Desktop/GB/C_Test/Lesson1/Hello_User/obj/Debug/net6.0/refint/Hello_User.dll
+/Users/liana/Desktop/GB/C_Test/Lesson1/Hello_User/obj/Debug/net6.0/Hello_User.pdb
+/Users/liana/Desktop/GB/C_Test/Lesson1/Hello_User/obj/Debug/net6.0/Hello_User.genruntimeconfig.cache
+/Users/liana/Desktop/GB/C_Test/Lesson1/Hello_User/obj/Debug/net6.0/ref/Hello_User.dll
