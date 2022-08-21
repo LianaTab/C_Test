@@ -8,19 +8,20 @@
 7 -> нет
 */
 
-Console.WriteLine("Введите число:");
-int a = Console.ReadLine();
+
+Console.WriteLine("Введите число: ");
+int num = int.Parse(Console.ReadLine()); 
 
 
-if (a = a % 2 == 1) 
+if(num % 2 == 0) 
 {
 
-    Console.WriteLine ("Число нечётное");
-    Console.Write(a);
+    Console.WriteLine ("Число чётное");
+    Console.Write(num);
 }
 
 else
 {
-    Console.WriteLine("Число чётное");
-    Console.Write(a);
+    Console.WriteLine("Число  нечётное");
+    Console.Write(num);
 }
