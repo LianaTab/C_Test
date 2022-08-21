@@ -9,22 +9,16 @@
 
 Console.WriteLine("Введите число: ");
 int num2 = int.Parse(Console.ReadLine()); 
-int count = 1;
 int num1 = 1;
 
-/* while(count <= num2)
- 
-{ */
-
-if((count <= num2) && (num1 % 2 == 0))
+for (int i = num1; i <= num2; i++)
 {
-    Console.WriteLine(num1);
-    num1++;
-
+    if (i % 2 == 0)
+    {
+        Console.WriteLine(i + " ");
+    }
 }
 
-else
-{
-    num1++;
-}
+
+
 
