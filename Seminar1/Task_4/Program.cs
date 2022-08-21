@@ -4,7 +4,7 @@
 44 5 78 -> 78
 22 3 9 -> 22 */
 
-/* int a = 2, b = 3, c = 7;
+int a = 2, b = 3, c = 7;
 int max = a;
 if (a > b && a > c)
     max = a;
@@ -15,7 +15,7 @@ if (b > a && b > c)
 if (c > a && c > b)
     max = c;
 
-Console.WriteLine(max); */
+Console.WriteLine(max);
 
 /* int a = 44, b = 5, c = 78;
 int max = a;
@@ -30,7 +30,7 @@ if (c > a && c > b)
 
 Console.WriteLine(max); */
 
-int a = 22, b = 3, c = 9;
+/* int a = 22, b = 3, c = 9;
 int max = 0;
 
 if (a > b && a > c)
@@ -42,4 +42,4 @@ if (b > a && b > c)
 if (c > a && c > b)
     max = c;
 
-Console.WriteLine(max);
+Console.WriteLine(max); */
