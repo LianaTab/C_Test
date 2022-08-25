@@ -9,13 +9,7 @@ Console.WriteLine("Введите число от 100 до 999: ");
 
 int a = Convert.ToInt32(Console.ReadLine());
 
-//int secondnumber(int a)
+    int midterm = a % 100;
+    int second =  midterm / 10;
 
-//{
-
-    int first = a / 100;
-    int third = a % 10;
-    int second = (first % 100) / 10;
-
-//}
 Console.WriteLine(second);
