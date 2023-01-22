@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/liana/Desktop/GB/C_Test/Lesson1/Hello_User/Hello_User.csproj",
+      "projectUniqueName": "/Users/liana/C_Test/Lesson1/Hello_User/Hello_User.csproj",
       "projectName": "Hello_User",
-      "projectPath": "/Users/liana/Desktop/GB/C_Test/Lesson1/Hello_User/Hello_User.csproj",
+      "projectPath": "/Users/liana/C_Test/Lesson1/Hello_User/Hello_User.csproj",
       "packagesPath": "/Users/liana/.nuget/packages/",
-      "outputPath": "/Users/liana/Desktop/GB/C_Test/Lesson1/Hello_User/obj/",
+      "outputPath": "/Users/liana/C_Test/Lesson1/Hello_User/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/liana/.nuget/NuGet/NuGet.Config"

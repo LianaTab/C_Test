@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zMHQA+yu9czhu+YUHDdXiInsxwoSz9RQ9IxaRZuvFbZghpJisKKq26dtUCP32OCrq2IchF+AaQ3NstLmAdM9Gw==",
+  "dgSpecHash": "2Cqol63J6crJGnLSbpC3fsnaIgJKkhBpkhljndSTMXwo3Kk7UjvUECRrunENnOachu+xZ9EC2xlp41FAW2YvDg==",
   "success": true,
-  "projectFilePath": "/Users/liana/Desktop/GB/C_Test/Lesson1/Hello_User/Hello_User.csproj",
+  "projectFilePath": "/Users/liana/C_Test/Lesson1/Hello_User/Hello_User.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
