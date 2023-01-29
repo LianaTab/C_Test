@@ -8,3 +8,26 @@
 
 32679 -> 6
 */
+
+
+    Console.WriteLine("Введите число: ");
+    int num = Math.Abs(Convert.ToInt32(Console.ReadLine()));
+
+    if (num < 100)
+    {
+    Console.WriteLine("Третьего числа нет");
+    }
+    else
+    {
+    do 
+    {
+        num = num / 10;
+    }
+    while (num > 999);
+    int result = num % 10;
+    Console.WriteLine(result);
+    }
+                
+    
+          
+    
