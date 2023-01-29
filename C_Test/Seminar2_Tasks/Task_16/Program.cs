@@ -14,7 +14,7 @@ int num1 = int.Parse(Console.ReadLine());
 Console.WriteLine("Пожалуйста, введите число 2");
 int num2 = int.Parse(Console.ReadLine());
 
-double sqrtNum1 = Math.Sqrt(num1);
+double sqrtNum1 = Math.Sqrt(num1);  //вариант не работает с отрицательными числами
 double sqrtNum2 = Math.Sqrt(num2);
 
 System.Console.WriteLine(sqrtNum1 == Math.Abs(num2) || sqrtNum2 == Math.Abs(num1) ? "Да": "Нет");

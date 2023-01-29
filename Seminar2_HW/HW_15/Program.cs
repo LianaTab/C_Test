@@ -42,3 +42,8 @@ if (day == 1)
 else
 {
     Console.WriteLine("Вы ввели неверный номер дня недели");
+
+}
+
+if (day == 6 || day == 7)
+    Console.WriteLine("Этот день - выходной");
