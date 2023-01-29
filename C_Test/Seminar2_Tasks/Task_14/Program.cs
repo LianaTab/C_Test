@@ -18,6 +18,7 @@ System.Console.WriteLine("Число является нулём");
 return;
 }
 
+/*
 int firstTask = (num % 7);
 int secondTask = (num % 23);
 
@@ -26,4 +27,12 @@ Console.WriteLine("Число кратно 7 и 23");
 
 else
 Console.WriteLine("Введённое число НЕ кратно 7 и 23");
+
+*/
+
+if (num % 7 == 0 && num % 23 == 0)
+    Console.WriteLine("Число кратно 7 и 23");
+
+else
+    Console.WriteLine("Введённое число НЕ кратно 7 и 23");
 
