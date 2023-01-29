@@ -17,6 +17,7 @@
     {
     Console.WriteLine("Третьего числа нет");
     }
+    
     else
     {
     do 
