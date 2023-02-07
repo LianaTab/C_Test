@@ -19,11 +19,17 @@ int CalculateQuarter(int x, int y)
 Console.WriteLine("Программа для вычисления четверти нахождения точки");
 Console.WriteLine("Введите координату X: ");
 if (!int.TryParse(Console.ReadLine(), out var x)) //Восклицательный знак превращает true в falseю тют если не распарсилось - система выведет сообщение
-Console.WriteLine("ВВедено не целое число");
-
+{
+    Console.WriteLine("Введено не целое число");
+    return;
+}
 Console.WriteLine("Введите координату Y: ");
 if (!int.TryParse(Console.ReadLine(), out var y))
-Console.WriteLine("ВВедено не целое число");
+
+{
+    Console.WriteLine("Введено не целое число");
+    return;
+}
 
 if (x == 0 || y == 0)
 {
