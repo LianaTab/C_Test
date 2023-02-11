@@ -7,20 +7,23 @@
 
 Console.WriteLine("Программа для вывода таблицы квадратов от 1 до заданного числа ");
 Console.WriteLine("Введите число: ");
-int.TryParse(Console.ReadLine(), out int x);
 
-int Func(int x) //но лучше double
+if (!int.TryParse(Console.ReadLine(), out int N) || N <= 0)
 {
-    return (int)Math.Pow(x, 2);
+    Console.WriteLine("Введено не целое или отрицательное число");
+    return;
 }
 
-int i = 1;
-
-while(i <= x)
+void powfunc(int N)
 {
-    Console.Write(Func(i));
-    if (i<x)
-    Console.Write(", ");
-    i++;
-}
+    int count = 1;
+    Console.Write(count* count);
+    count++;
 
+    while(count <= N)
+    {
+        Console.Write(", " + count * count);
+        count++;
+    }
+}
+powfunc(N);
