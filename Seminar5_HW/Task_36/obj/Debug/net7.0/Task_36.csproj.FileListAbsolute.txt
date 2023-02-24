@@ -1,0 +1,15 @@
+/Users/stagelight/Desktop/GB/C_Test/C_Test/C_Test/Seminar5_HW/Task_36/bin/Debug/net7.0/Task_36
+/Users/stagelight/Desktop/GB/C_Test/C_Test/C_Test/Seminar5_HW/Task_36/bin/Debug/net7.0/Task_36.deps.json
+/Users/stagelight/Desktop/GB/C_Test/C_Test/C_Test/Seminar5_HW/Task_36/bin/Debug/net7.0/Task_36.runtimeconfig.json
+/Users/stagelight/Desktop/GB/C_Test/C_Test/C_Test/Seminar5_HW/Task_36/bin/Debug/net7.0/Task_36.dll
+/Users/stagelight/Desktop/GB/C_Test/C_Test/C_Test/Seminar5_HW/Task_36/bin/Debug/net7.0/Task_36.pdb
+/Users/stagelight/Desktop/GB/C_Test/C_Test/C_Test/Seminar5_HW/Task_36/obj/Debug/net7.0/Task_36.csproj.AssemblyReference.cache
+/Users/stagelight/Desktop/GB/C_Test/C_Test/C_Test/Seminar5_HW/Task_36/obj/Debug/net7.0/Task_36.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stagelight/Desktop/GB/C_Test/C_Test/C_Test/Seminar5_HW/Task_36/obj/Debug/net7.0/Task_36.AssemblyInfoInputs.cache
+/Users/stagelight/Desktop/GB/C_Test/C_Test/C_Test/Seminar5_HW/Task_36/obj/Debug/net7.0/Task_36.AssemblyInfo.cs
+/Users/stagelight/Desktop/GB/C_Test/C_Test/C_Test/Seminar5_HW/Task_36/obj/Debug/net7.0/Task_36.csproj.CoreCompileInputs.cache
+/Users/stagelight/Desktop/GB/C_Test/C_Test/C_Test/Seminar5_HW/Task_36/obj/Debug/net7.0/Task_36.dll
+/Users/stagelight/Desktop/GB/C_Test/C_Test/C_Test/Seminar5_HW/Task_36/obj/Debug/net7.0/refint/Task_36.dll
+/Users/stagelight/Desktop/GB/C_Test/C_Test/C_Test/Seminar5_HW/Task_36/obj/Debug/net7.0/Task_36.pdb
+/Users/stagelight/Desktop/GB/C_Test/C_Test/C_Test/Seminar5_HW/Task_36/obj/Debug/net7.0/Task_36.genruntimeconfig.cache
+/Users/stagelight/Desktop/GB/C_Test/C_Test/C_Test/Seminar5_HW/Task_36/obj/Debug/net7.0/ref/Task_36.dll
