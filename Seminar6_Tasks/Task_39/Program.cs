@@ -1,0 +1,42 @@
+﻿/*
+Напишите программу, которая переерн\т одномерный 
+массив (последний элемент будет на первом месте, а первый
+- на последнем и т.д.)
+
+[1 2 3 4 5] -- [5 4 3 2 1]
+
+[6 7 3 6] -- [6 3 7 6]
+*/
+
+void PrintArray(int[] array)
+{
+    for (int i = 0; i < array.Length; i++)
+    {
+        Console.Write($"{array[i]} ");
+    }
+}
+
+int [] GenerateArr(int n, int min, int max)
+{
+    int[] arrNum = new int[n];
+    Random rnd = new Random();
+    for (int i = 0; i < arrNum.Length; arrNum[i++] = rnd.Next(min, max +1)) {}
+
+    return arrNum; 
+}
+
+int[] RevertArray(int[] array) {
+    int[] result = new int[array.Length];
+    for(int i = 0; i < array.Length; i++) {
+        result[array.Length - i - 1] = array[i];
+    }
+    return result;
+}
+
+int[] array = GenerateArr(12, -9, 9);
+Console.WriteLine("Сгенерированный массив: ");
+PrintArray(array);
+
+int[] result = RevertArray(array);
+Console.WriteLine("Перевернутый массив: ");
+PrintArray(result);
